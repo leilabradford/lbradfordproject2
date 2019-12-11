@@ -1,0 +1,22 @@
+body{
+	background-color: #6F6567;
+}
+h2{
+	font-family: georgia;
+}
+.img1{
+	height: 300px;
+	width: 600px;
+	margin-bottom: 200px;
+}
+.img2{
+	height: 600px;
+	width: 500px;
+	margin-left: 600px;
+}
+a{
+	color: black;
+}
+h3{
+	font-family: georgia;
+}

@@ -1,0 +1,61 @@
+body {
+	background-image: 
+	url("sci bg.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 1960px 980px;
+}
+h1{
+	color: white;
+	font-family: georgia;
+}
+.grid{
+	grid-template-columns: 600px 600px 600px;
+	grid-template-rows: 400px 400px 400px;
+	display: grid;
+	height:50%;
+	width: 100%;
+	margin-left: 50px;
+}
+.item1{
+}
+.item2{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: georgia;
+}
+.item3{
+	grid-row-start: 1;
+	grid-column-start: 3;
+	grid-row-end: 2;
+	grid-column-end: 4;
+	color: black;
+	font-size: 27px;
+	font-family: georgia;
+	background-color: white;
+	background-size: 100% 50%;
+}
+p {
+	`background-color: white;
+}
+.item4{
+	color: black;
+	font-size: 30px;
+	font-family: georgia;
+	background-color: white;
+}
+.item5{
+	color: black;
+	font-size: 30px;
+	font-family: georgia;
+	font-weight: bold;
+}
+a{
+	color: black;
+}
+.item6{
+}
+img{
+	height: 300px;
+	width: 600px;
+}
